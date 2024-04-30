@@ -1,0 +1,11 @@
+img {
+  width: 70%;
+}
+#body {
+  width: 100%;
+}
+#navBar {
+  overflow: hidden;
+  position: sticky;
+  top: 0;
+}
